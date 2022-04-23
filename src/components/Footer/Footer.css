@@ -1,0 +1,28 @@
+.footer-area {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #000;
+    color: #fff;
+}
+
+.footer {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+
+.footer-iinput {
+    margin: 0.7rem 0rem;
+}
+
+input.footer-iinput {
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: none;
+}
+
+.icon i {
+    margin: 10px;
+    font-size: 20px;
+}

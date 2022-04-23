@@ -7,9 +7,9 @@ const Footer = () => {
                 <div className='footer'>
                     <div className='icon'>
                         <h1>mealDb</h1>
-                        <i class="fa-brands fa-facebook"></i>
-                        <i class="fa-brands fa-twitter"></i>
-                        <i class="fa-brands fa-linkedin"></i>
+                        <i className="fa-brands fa-facebook"></i>
+                        <i className="fa-brands fa-twitter"></i>
+                        <i className="fa-brands fa-linkedin"></i>
                     </div>
                     <div className="contact">
                         <span>Enter Your Email</span> <br />

@@ -8,4 +8,6 @@
     margin-right: 5px;
     text-align: left;
     margin-left: 4rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }

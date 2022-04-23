@@ -1,0 +1,30 @@
+.meal {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #3f4360;
+    ;
+    color: #fff;
+    box-shadow: -5px 10px 5px gray;
+}
+
+.category {
+    text-align: center;
+
+}
+
+.btn {
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.regural-btn {
+    padding: 0.5rem 2rem;
+    border: none;
+    background-color: gray;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}

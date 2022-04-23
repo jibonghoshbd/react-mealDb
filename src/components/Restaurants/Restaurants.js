@@ -16,7 +16,6 @@ const Restaurants = () => {
     return (
         <div className='restaurant-container'>
             <div className='restaurant'>
-                <h1>Total Meals: {meals.length} </h1>
                 {
                     meals.map(meal => <Meal
                         key={meal.idCategory}

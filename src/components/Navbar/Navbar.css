@@ -1,0 +1,27 @@
+.img img {
+    height: 4rem;
+    margin: 1rem 0rem;
+}
+
+.nav-area {
+    background-color: #000;
+    color: #fff;
+    padding: 0.7rem 2rem;
+    text-align: left;
+}
+
+.nav-area a {
+    text-decoration: none;
+    color: #fff;
+    margin: 5px;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+}
+
+.nav-area a:hover {
+    background-color: lightgray;
+    border-radius: 5px;
+    color: #000;
+    cursor: pointer;
+    transform: all 0.5s;
+}
